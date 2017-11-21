@@ -6,19 +6,10 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2017 11:15:02 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2017 10:58:31 -0800</lastBuildDate>
     
 	<atom:link href="http://matthew-edward-adams.org/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Another Test</title>
-      <link>http://matthew-edward-adams.org/post/another-test/</link>
-      <pubDate>Tue, 21 Nov 2017 11:15:02 -0800</pubDate>
-      
-      <guid>http://matthew-edward-adams.org/post/another-test/</guid>
-      <description>Let&#39;s hope this one works.</description>
-    </item>
     
     <item>
       <title>Third Test</title>
