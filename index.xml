@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Public Workspace</title>
-    <link>https://matthew-edward-adams.org/</link>
+    <link>http://matthew-edward-adams.org/</link>
     <description>Recent content on My Public Workspace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Nov 2017 11:20:05 -0800</lastBuildDate>
     
-	<atom:link href="https://matthew-edward-adams.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://matthew-edward-adams.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Final Test</title>
-      <link>https://matthew-edward-adams.org/posts/final-test/</link>
+      <link>http://matthew-edward-adams.org/posts/final-test/</link>
       <pubDate>Tue, 21 Nov 2017 11:20:05 -0800</pubDate>
       
-      <guid>https://matthew-edward-adams.org/posts/final-test/</guid>
+      <guid>http://matthew-edward-adams.org/posts/final-test/</guid>
       <description>This is working again, right?</description>
     </item>
     
     <item>
       <title>Third Test</title>
-      <link>https://matthew-edward-adams.org/posts/third-test/</link>
+      <link>http://matthew-edward-adams.org/posts/third-test/</link>
       <pubDate>Tue, 21 Nov 2017 10:58:31 -0800</pubDate>
       
-      <guid>https://matthew-edward-adams.org/posts/third-test/</guid>
+      <guid>http://matthew-edward-adams.org/posts/third-test/</guid>
       <description>Does this work?</description>
     </item>
     
     <item>
       <title>Test Hugo Org</title>
-      <link>https://matthew-edward-adams.org/posts/test-hugo-org/</link>
+      <link>http://matthew-edward-adams.org/posts/test-hugo-org/</link>
       <pubDate>Tue, 21 Nov 2017 10:54:45 -0800</pubDate>
       
-      <guid>https://matthew-edward-adams.org/posts/test-hugo-org/</guid>
+      <guid>http://matthew-edward-adams.org/posts/test-hugo-org/</guid>
       <description>Does this work?</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://matthew-edward-adams.org/posts/my-first-post/</link>
+      <link>http://matthew-edward-adams.org/posts/my-first-post/</link>
       <pubDate>Tue, 21 Nov 2017 09:22:15 -0800</pubDate>
       
-      <guid>https://matthew-edward-adams.org/posts/my-first-post/</guid>
+      <guid>http://matthew-edward-adams.org/posts/my-first-post/</guid>
       <description>This is a draft.</description>
     </item>
     
