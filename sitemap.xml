@@ -3,44 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://matthew-edward-adams.org/post/final-test/</loc>
-    <lastmod>2017-11-21T11:20:05-08:00</lastmod>
+    <loc>https://www.example.org/posts/</loc>
+    <lastmod>2017-12-19T15:39:53-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://matthew-edward-adams.org/post/third-test/</loc>
-    <lastmod>2017-11-21T10:58:31-08:00</lastmod>
+    <loc>https://www.example.org/posts/second/</loc>
+    <lastmod>2017-12-19T15:39:53-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://matthew-edward-adams.org/post/test-hugo-org/</loc>
-    <lastmod>2017-11-21T10:54:45-08:00</lastmod>
+    <loc>https://www.example.org/about/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://matthew-edward-adams.org/post/my-first-post/</loc>
-    <lastmod>2017-11-21T09:22:15-08:00</lastmod>
+    <loc>https://www.example.org/posts/2016-03-01-aix-en-provence-reflections/</loc>
+    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://matthew-edward-adams.org/categories/</loc>
+    <loc>https://www.example.org/posts/first/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://matthew-edward-adams.org/</loc>
-    <lastmod>2017-11-21T11:20:05-08:00</lastmod>
+    <loc>https://www.example.org/tags/france/</loc>
+    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://matthew-edward-adams.org/post/</loc>
-    <lastmod>2017-11-21T11:20:05-08:00</lastmod>
+    <loc>https://www.example.org/categories/hikes/</loc>
+    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://matthew-edward-adams.org/tags/</loc>
+    <loc>https://www.example.org/tags/hiking/</loc>
+    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/</loc>
+    <lastmod>2017-12-19T15:39:53-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/</loc>
+    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
