@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Phantisocracy</title>
+    <link>https://www.example.org/posts/</link>
+    <description>Recent content in Posts on Phantisocracy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 Matthew Edward Adams</copyright>
+    <lastBuildDate>Tue, 19 Dec 2017 15:39:53 -0800</lastBuildDate>
+    
+	<atom:link href="https://www.example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Last Red Eye</title>
+      <link>https://www.example.org/posts/second/</link>
+      <pubDate>Tue, 19 Dec 2017 15:39:53 -0800</pubDate>
+      
+      <guid>https://www.example.org/posts/second/</guid>
+      <description>Watch out, Langoliers!</description>
+    </item>
+    
+    <item>
+      <title>On Hiking to Bibémus</title>
+      <link>https://www.example.org/posts/2016-03-01-aix-en-provence-reflections/</link>
+      <pubDate>Tue, 01 Mar 2016 09:40:36 +0100</pubDate>
+      
+      <guid>https://www.example.org/posts/2016-03-01-aix-en-provence-reflections/</guid>
+      <description>The path that leads to the Carrières de Bibémus starts just past the Lycée Paul Cézanne. It&amp;rsquo;s a multi-use road all the way to the plateau, so pietons have to be wary of Citroëns careering around corners and braking at the worst moments &amp;mdash; if indeed the goal is to keep the vehicles fastened to the earth.</description>
+    </item>
+    
+    <item>
+      <title>A New Hope</title>
+      <link>https://www.example.org/posts/first/</link>
+      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      
+      <guid>https://www.example.org/posts/first/</guid>
+      <description>This is an example of a working first post.</description>
+    </item>
+    
+  </channel>
+</rss>
