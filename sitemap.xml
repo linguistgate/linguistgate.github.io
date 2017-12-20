@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.org/posts/</loc>
+    <loc>http://www.matthew-edward-adams.org/posts/</loc>
     <lastmod>2017-12-19T15:39:53-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/posts/second/</loc>
+    <loc>http://www.matthew-edward-adams.org/posts/second/</loc>
     <lastmod>2017-12-19T15:39:53-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/about/</loc>
+    <loc>http://www.matthew-edward-adams.org/about/</loc>
     <lastmod>2017-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/posts/2016-03-01-aix-en-provence-reflections/</loc>
+    <loc>http://www.matthew-edward-adams.org/posts/2016-03-01-aix-en-provence-reflections/</loc>
     <lastmod>2016-03-01T09:40:36+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/posts/first/</loc>
+    <loc>http://www.matthew-edward-adams.org/posts/first/</loc>
     <lastmod>2014-09-29T21:54:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/categories/</loc>
+    <loc>http://www.matthew-edward-adams.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/france/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/france/</loc>
     <lastmod>2016-03-01T09:40:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/categories/hikes/</loc>
+    <loc>http://www.matthew-edward-adams.org/categories/hikes/</loc>
     <lastmod>2016-03-01T09:40:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/hiking/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/hiking/</loc>
     <lastmod>2016-03-01T09:40:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/</loc>
+    <loc>http://www.matthew-edward-adams.org/</loc>
     <lastmod>2017-12-19T15:39:53-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/</loc>
     <lastmod>2016-03-01T09:40:36+01:00</lastmod>
     <priority>0</priority>
   </url>
