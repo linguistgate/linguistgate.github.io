@@ -20,15 +20,6 @@
     </item>
     
     <item>
-      <title>Hikes</title>
-      <link>http://www.matthew-edward-adams.org/categories/hikes/</link>
-      <pubDate>Tue, 01 Mar 2016 09:40:36 +0100</pubDate>
-      
-      <guid>http://www.matthew-edward-adams.org/categories/hikes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Politics</title>
       <link>http://www.matthew-edward-adams.org/categories/politics/</link>
       <pubDate>Sat, 31 Mar 2018 14:15:04 +0200</pubDate>
@@ -40,9 +31,18 @@
     <item>
       <title>Travel</title>
       <link>http://www.matthew-edward-adams.org/categories/travel/</link>
-      <pubDate>Sat, 31 Mar 2018 14:15:25 +0200</pubDate>
+      <pubDate>Tue, 01 Mar 2016 09:40:36 +0100</pubDate>
       
       <guid>http://www.matthew-edward-adams.org/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walking</title>
+      <link>http://www.matthew-edward-adams.org/categories/walking/</link>
+      <pubDate>Sat, 31 Mar 2018 23:18:36 +0200</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/categories/walking/</guid>
       <description></description>
     </item>
     

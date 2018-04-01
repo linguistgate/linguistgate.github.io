@@ -43,6 +43,12 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/anxiety/</loc>
+    <lastmod>2018-03-31T23:18:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/blogging/</loc>
     <lastmod>2018-03-31T14:15:04+02:00</lastmod>
     <priority>0</priority>
@@ -78,14 +84,8 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/hikes/</loc>
-    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.matthew-edward-adams.org/tags/hiking/</loc>
-    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
+    <lastmod>2018-03-31T23:18:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -114,26 +114,44 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/power/</loc>
+    <lastmod>2018-03-31T14:15:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/programming/</loc>
     <lastmod>2016-03-04T16:52:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/stvictoire/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/saintevictoire/</loc>
     <lastmod>2018-03-31T14:15:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/</loc>
-    <lastmod>2018-03-31T14:15:04+02:00</lastmod>
+    <lastmod>2018-03-31T23:18:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/travel/</loc>
+    <lastmod>2018-03-31T14:15:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.matthew-edward-adams.org/categories/travel/</loc>
-    <lastmod>2018-03-31T14:15:25+02:00</lastmod>
+    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/categories/walking/</loc>
+    <lastmod>2018-03-31T23:18:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
