@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/microposts/on-railroads-in-blood-meridian/</loc>
+    <lastmod>2018-04-01T16:10:35+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/microposts/on-hiking/</loc>
     <lastmod>2018-03-31T23:18:36+02:00</lastmod>
   </url>
@@ -69,13 +74,13 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/microposts/</loc>
-    <lastmod>2018-03-31T23:18:36+02:00</lastmod>
+    <lastmod>2018-04-01T16:10:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.matthew-edward-adams.org/</loc>
-    <lastmod>2018-03-31T23:18:36+02:00</lastmod>
+    <lastmod>2018-04-01T16:10:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,6 +111,30 @@
   <url>
     <loc>http://www.matthew-edward-adams.org/categories/travel/</loc>
     <lastmod>2018-03-31T14:15:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/westerns/</loc>
+    <lastmod>2018-04-01T16:10:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/wonderings/</loc>
+    <lastmod>2018-04-01T16:10:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/writing/</loc>
+    <lastmod>2018-04-01T16:10:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/categories/writing/</loc>
+    <lastmod>2018-04-01T16:10:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
