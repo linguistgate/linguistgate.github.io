@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/posts/</loc>
-    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
+    <lastmod>2016-03-04T16:52:10+02:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/posts/digitial-humanities-a-preview/</loc>
+    <lastmod>2016-03-04T16:52:10+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/posts/2016-03-01-aix-en-provence-reflections/</loc>
     <lastmod>2016-03-01T09:40:36+01:00</lastmod>
   </url>
@@ -51,6 +56,18 @@
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/cezanne/</loc>
     <lastmod>2018-03-31T14:15:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/categories/digital-humanities/</loc>
+    <lastmod>2016-03-04T16:52:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/digitialhumnanities/</loc>
+    <lastmod>2016-03-04T16:52:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,6 +110,12 @@
   <url>
     <loc>http://www.matthew-edward-adams.org/categories/politics/</loc>
     <lastmod>2018-03-31T14:15:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/programming/</loc>
+    <lastmod>2016-03-04T16:52:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   

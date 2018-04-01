@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Phantisocracy</title>
-    <link>http://www.matthew-edward-adams.org/posts/</link>
-    <description>Recent content in Posts on Phantisocracy</description>
+    <title>Digital Humanities on Phantisocracy</title>
+    <link>http://www.matthew-edward-adams.org/categories/digital-humanities/</link>
+    <description>Recent content in Digital Humanities on Phantisocracy</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 Matthew Edward Adams</copyright>
     <lastBuildDate>Fri, 04 Mar 2016 16:52:10 +0200</lastBuildDate>
     
-	<atom:link href="http://www.matthew-edward-adams.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.matthew-edward-adams.org/categories/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>http://www.matthew-edward-adams.org/posts/digitial-humanities-a-preview/</guid>
       <description>Over the past year, I&amp;rsquo;ve grown increasingly attracted to the idea of teaching a digital humanities course in a secondary education environment. I have three reasons for this:
  Humanities-based education remains vitally important and must not fall by the wayside.</description>
-    </item>
-    
-    <item>
-      <title>On Hiking to Bibémus</title>
-      <link>http://www.matthew-edward-adams.org/posts/2016-03-01-aix-en-provence-reflections/</link>
-      <pubDate>Tue, 01 Mar 2016 09:40:36 +0100</pubDate>
-      
-      <guid>http://www.matthew-edward-adams.org/posts/2016-03-01-aix-en-provence-reflections/</guid>
-      <description>The path that leads to the Carrières de Bibémus starts just past the Lycée Paul Cézanne. It&amp;rsquo;s a multi-use road all the way to the plateau, so pietons have to be wary of Citroëns careering around corners and braking at the worst moments &amp;mdash; if indeed the goal is to keep the vehicles fastened to the earth.</description>
     </item>
     
   </channel>
