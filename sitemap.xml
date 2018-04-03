@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/microposts/empire-ants/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/photos/writing-nook/</loc>
     <lastmod>2018-04-03T15:39:06+02:00</lastmod>
   </url>
@@ -95,6 +100,12 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/gorillaz/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/hiking/</loc>
     <lastmod>2018-03-31T23:18:36+02:00</lastmod>
     <priority>0</priority>
@@ -102,7 +113,19 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/microposts/</loc>
-    <lastmod>2018-04-01T16:10:35+02:00</lastmod>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/music/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/categories/music/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -114,13 +137,19 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/</loc>
-    <lastmod>2018-04-03T15:39:06+02:00</lastmod>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.matthew-edward-adams.org/photos/</loc>
     <lastmod>2018-04-03T15:39:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/politics/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,6 +174,12 @@
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/saintevictoire/</loc>
     <lastmod>2018-03-31T14:15:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/sublime/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
