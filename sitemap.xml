@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/photos/en-france-1-spring-2018/</loc>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/microposts/empire-ants/</loc>
     <lastmod>2018-04-03T16:00:10+02:00</lastmod>
   </url>
@@ -95,7 +100,13 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/france/</loc>
-    <lastmod>2018-04-03T15:39:06+02:00</lastmod>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/friendship/</loc>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -107,7 +118,7 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/hiking/</loc>
-    <lastmod>2018-03-31T23:18:36+02:00</lastmod>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -137,13 +148,13 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/</loc>
-    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.matthew-edward-adams.org/photos/</loc>
-    <lastmod>2018-04-03T15:39:06+02:00</lastmod>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,7 +208,7 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/categories/travel/</loc>
-    <lastmod>2016-03-01T09:40:36+01:00</lastmod>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
