@@ -81,6 +81,12 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/conceptalbum/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/coziness/</loc>
     <lastmod>2018-04-03T15:39:06+02:00</lastmod>
     <priority>0</priority>
@@ -107,12 +113,6 @@
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/friendship/</loc>
     <lastmod>2018-04-04T11:48:16+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.matthew-edward-adams.org/tags/gorillaz/</loc>
-    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -227,6 +227,12 @@
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/wonderings/</loc>
     <lastmod>2018-04-01T16:10:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/worldbuilding/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
