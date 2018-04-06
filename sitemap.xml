@@ -135,13 +135,13 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/music/</loc>
+    <loc>http://www.matthew-edward-adams.org/categories/music/</loc>
     <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/music/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/music/</loc>
     <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -165,14 +165,14 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/politics/</loc>
-    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
+    <loc>http://www.matthew-edward-adams.org/categories/politics/</loc>
+    <lastmod>2018-03-31T14:15:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/politics/</loc>
-    <lastmod>2018-03-31T14:15:04+02:00</lastmod>
+    <loc>http://www.matthew-edward-adams.org/tags/politics/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -207,14 +207,14 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/travel/</loc>
-    <lastmod>2018-03-31T14:15:25+02:00</lastmod>
+    <loc>http://www.matthew-edward-adams.org/categories/travel/</loc>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/travel/</loc>
-    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
+    <loc>http://www.matthew-edward-adams.org/tags/travel/</loc>
+    <lastmod>2018-03-31T14:15:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -243,13 +243,13 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/writing/</loc>
+    <loc>http://www.matthew-edward-adams.org/categories/writing/</loc>
     <lastmod>2018-04-03T15:39:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/writing/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/writing/</loc>
     <lastmod>2018-04-03T15:39:06+02:00</lastmod>
     <priority>0</priority>
   </url>
