@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/microposts/on-catalexis/</loc>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/microposts/on-deep-purple-infinite/</loc>
     <lastmod>2018-04-06T12:00:21-07:00</lastmod>
   </url>
@@ -110,6 +115,12 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/dissertation/</loc>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/documentary/</loc>
     <lastmod>2018-04-06T12:00:21-07:00</lastmod>
     <priority>0</priority>
@@ -140,14 +151,38 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/humor/</loc>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/instagram/</loc>
     <lastmod>2018-04-04T11:48:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/linguistics/</loc>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/categories/linguistics/</loc>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/metrics/</loc>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/microposts/</loc>
-    <lastmod>2018-04-06T12:00:21-07:00</lastmod>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -177,7 +212,13 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/</loc>
-    <lastmod>2018-04-06T12:00:21-07:00</lastmod>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/phonology/</loc>
+    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
