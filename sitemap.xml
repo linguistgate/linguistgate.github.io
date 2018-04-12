@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/microposts/on-hobbies/</loc>
+    <lastmod>2018-04-12T16:54:57-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/microposts/on-catalexis/</loc>
     <lastmod>2018-04-07T09:42:26-07:00</lastmod>
   </url>
@@ -151,8 +156,20 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/hobbies/</loc>
+    <lastmod>2018-04-12T16:54:57-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/humor/</loc>
     <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/individualism/</loc>
+    <lastmod>2018-04-12T16:54:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,13 +180,13 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/linguistics/</loc>
+    <loc>http://www.matthew-edward-adams.org/categories/linguistics/</loc>
     <lastmod>2018-04-07T09:42:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/linguistics/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/linguistics/</loc>
     <lastmod>2018-04-07T09:42:26-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -182,7 +199,7 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/microposts/</loc>
-    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <lastmod>2018-04-12T16:54:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,13 +210,13 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/music/</loc>
+    <loc>http://www.matthew-edward-adams.org/categories/music/</loc>
     <lastmod>2018-04-06T12:00:21-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/music/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/music/</loc>
     <lastmod>2018-04-06T12:00:21-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -212,7 +229,7 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/</loc>
-    <lastmod>2018-04-07T09:42:26-07:00</lastmod>
+    <lastmod>2018-04-12T16:54:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -229,26 +246,32 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/politics/</loc>
-    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.matthew-edward-adams.org/categories/politics/</loc>
     <lastmod>2018-03-31T14:15:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/politics/</loc>
+    <lastmod>2018-04-03T16:00:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/power/</loc>
-    <lastmod>2018-03-31T14:15:04+02:00</lastmod>
+    <lastmod>2018-04-12T16:54:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/programming/</loc>
     <lastmod>2016-03-04T16:52:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/categories/rights/</loc>
+    <lastmod>2018-04-12T16:54:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -271,14 +294,14 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/travel/</loc>
-    <lastmod>2018-03-31T14:15:25+02:00</lastmod>
+    <loc>http://www.matthew-edward-adams.org/categories/travel/</loc>
+    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/travel/</loc>
-    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
+    <loc>http://www.matthew-edward-adams.org/tags/travel/</loc>
+    <lastmod>2018-03-31T14:15:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -307,13 +330,13 @@
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/tags/writing/</loc>
+    <loc>http://www.matthew-edward-adams.org/categories/writing/</loc>
     <lastmod>2018-04-03T15:39:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.matthew-edward-adams.org/categories/writing/</loc>
+    <loc>http://www.matthew-edward-adams.org/tags/writing/</loc>
     <lastmod>2018-04-03T15:39:06+02:00</lastmod>
     <priority>0</priority>
   </url>

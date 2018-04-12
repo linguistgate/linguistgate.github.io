@@ -6,10 +6,19 @@
     <description>Recent content in Power on Phantisocracy</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 Matthew Edward Adams</copyright>
-    <lastBuildDate>Sat, 31 Mar 2018 14:15:04 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Apr 2018 16:54:57 -0700</lastBuildDate>
     
 	<atom:link href="http://www.matthew-edward-adams.org/tags/power/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On Hobbies</title>
+      <link>http://www.matthew-edward-adams.org/microposts/on-hobbies/</link>
+      <pubDate>Thu, 12 Apr 2018 16:54:57 -0700</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/microposts/on-hobbies/</guid>
+      <description>Most hobbies that I take up seem to have a hidden element in them: they are about escaping control. Building a home server: making sure I control my own 1s and 0s.</description>
+    </item>
     
     <item>
       <title>On Microposting</title>
