@@ -4,7 +4,12 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/posts/</loc>
-    <lastmod>2016-03-04T16:52:10+02:00</lastmod>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/posts/on-the-high-desert-in-san-diego/</loc>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
   </url>
   
   <url>
@@ -85,6 +90,12 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/botany/</loc>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/categories/</loc>
     <priority>0</priority>
   </url>
@@ -104,6 +115,12 @@
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/coziness/</loc>
     <lastmod>2018-04-03T15:39:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.matthew-edward-adams.org/tags/desert/</loc>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -180,6 +197,12 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/jeeping/</loc>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/linguistics/</loc>
     <lastmod>2018-04-07T09:42:26-07:00</lastmod>
     <priority>0</priority>
@@ -229,7 +252,7 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/</loc>
-    <lastmod>2018-04-12T16:54:57-07:00</lastmod>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -282,6 +305,12 @@
   </url>
   
   <url>
+    <loc>http://www.matthew-edward-adams.org/tags/solitude/</loc>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.matthew-edward-adams.org/tags/sublime/</loc>
     <lastmod>2018-04-03T16:00:10+02:00</lastmod>
     <priority>0</priority>
@@ -295,13 +324,13 @@
   
   <url>
     <loc>http://www.matthew-edward-adams.org/tags/travel/</loc>
-    <lastmod>2018-03-31T14:15:25+02:00</lastmod>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.matthew-edward-adams.org/categories/travel/</loc>
-    <lastmod>2018-04-04T11:48:16+02:00</lastmod>
+    <lastmod>2018-04-30T17:48:09-07:00</lastmod>
     <priority>0</priority>
   </url>
   
