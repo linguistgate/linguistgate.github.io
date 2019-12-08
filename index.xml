@@ -6,10 +6,19 @@
     <description>Recent content on Phantisocracy</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018-2020 Matthew Edward Adams</copyright>
-    <lastBuildDate>Sat, 12 May 2018 21:11:59 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.phantisocracy.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://www.phantisocracy.xyz/about/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.phantisocracy.xyz/about/</guid>
+      <description>I am an educator and writer interested in digital humanities, linguistics, and farming. I like fizzy water, maps, and long hikes. One of my dreams is to build a small farmstead with beekeeping, various fermentation capabilities (kimchi, cheese, and Czech pilseners), and an antilibrary.</description>
+    </item>
     
     <item>
       <title>Secret Canyon Hike</title>
@@ -120,15 +129,6 @@
       
       <guid>http://www.phantisocracy.xyz/microposts/on-microposting/</guid>
       <description>Microposting and microblogging may be the orders of the day, but this does not mean we have to submit to centralized corporate hierarchies to code up our microthoughts.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.phantisocracy.xyz/about/</link>
-      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.phantisocracy.xyz/about/</guid>
-      <description>I am an educator and writer interested in digital humanities, linguistics, and farming. I like fizzy water, maps, and long hikes. One of my dreams is to build a small farmstead with beekeeping, various fermentation capabilities (kimchi, cheese, and Czech pilseners), and an antilibrary.</description>
     </item>
     
     <item>

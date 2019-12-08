@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.phantisocracy.xyz/about/</loc>
+    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.phantisocracy.xyz/posts/</loc>
     <lastmod>2018-04-30T17:48:09-07:00</lastmod>
   </url>
@@ -65,11 +70,6 @@
   <url>
     <loc>http://www.phantisocracy.xyz/microposts/on-microposting/</loc>
     <lastmod>2018-03-31T14:15:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.phantisocracy.xyz/about/</loc>
-    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -263,7 +263,7 @@
   
   <url>
     <loc>http://www.phantisocracy.xyz/</loc>
-    <lastmod>2018-05-12T21:11:59-07:00</lastmod>
+    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
