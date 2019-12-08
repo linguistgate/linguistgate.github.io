@@ -136,7 +136,7 @@ time {
 }
 
 #container nav ul li a.active {
-  border-bottom: 0.5em solid #CD5C5C;
+  border-bottom: 0.5em solid #666666;
 }
 
 #container main {
@@ -216,7 +216,7 @@ time {
   padding: 0.2em 0.3em;
   font-size: 0.8em;
   line-height: 1em;
-  color: #CD5C5C;
+  color: #555555;
   vertical-align: middle;
   background-color: #fcfcfc;
   border-width: 1px;
@@ -264,7 +264,7 @@ a {
 }
 
 h2 a {
-  color: #CD5C5C; 
+  color: #191970; 
   text-decoration: none;
   font-style: italic;
 }
