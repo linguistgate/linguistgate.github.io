@@ -269,6 +269,11 @@ h2 a {
   font-style: italic;
 }
 
+article p a {
+    color: #CD5C5C;
+}
+
+
 .image, figure img, img {
   width: 100%;
   box-shadow: 0 3px 3px #bbbbbb;
