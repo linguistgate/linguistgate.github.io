@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power on Phantisocracy.</title>
-    <link>http://www.phantisocracy.xyz/tags/power/</link>
+    <link>https://www.phantisocracy.xyz/tags/power/</link>
     <description>Recent content in Power on Phantisocracy.</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018--2020 Matthew Edward Adams</copyright>
     <lastBuildDate>Thu, 12 Apr 2018 16:54:57 -0700</lastBuildDate>
     
-	<atom:link href="http://www.phantisocracy.xyz/tags/power/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.phantisocracy.xyz/tags/power/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On Hobbies</title>
-      <link>http://www.phantisocracy.xyz/microposts/on-hobbies/</link>
+      <link>https://www.phantisocracy.xyz/microposts/on-hobbies/</link>
       <pubDate>Thu, 12 Apr 2018 16:54:57 -0700</pubDate>
       
-      <guid>http://www.phantisocracy.xyz/microposts/on-hobbies/</guid>
+      <guid>https://www.phantisocracy.xyz/microposts/on-hobbies/</guid>
       <description>Most hobbies that I take up seem to have a hidden element in them: They are about escaping control. Building a home server: Making sure I control my own 1s and 0s.</description>
     </item>
     
     <item>
       <title>On Microposting</title>
-      <link>http://www.phantisocracy.xyz/microposts/on-microposting/</link>
+      <link>https://www.phantisocracy.xyz/microposts/on-microposting/</link>
       <pubDate>Sat, 31 Mar 2018 14:15:04 +0200</pubDate>
       
-      <guid>http://www.phantisocracy.xyz/microposts/on-microposting/</guid>
+      <guid>https://www.phantisocracy.xyz/microposts/on-microposting/</guid>
       <description>Microposting and microblogging may be the orders of the day, but this does not mean we have to submit to centralized corporate hierarchies to code up our microthoughts.</description>
     </item>
     
